@@ -10,5 +10,21 @@ let stringNumber = 33
 
 let valueInString = String(stringNumber)
 
-console.log(valueInString);
-console.log(typeof valueInString);
+// console.log(valueInString);
+// console.log(typeof valueInString);
+
+//******************************** Operations ************************
+
+let value = 3
+let negValue = -value
+//console.log(negValue);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2)
+// console.log(2/2);
+// console.log(2%2);
+
+console.log("1" + 2);
+console.log("1" + 2 + 2);
+console.log(1 + 2 + "2");
